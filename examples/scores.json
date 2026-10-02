@@ -1,0 +1,14 @@
+[
+  {
+    "condition": "indoor",
+    "delta_db": 3.0
+  },
+  {
+    "condition": "indoor",
+    "delta_db": 5.0
+  },
+  {
+    "condition": "wind",
+    "delta_db": -2.0
+  }
+]

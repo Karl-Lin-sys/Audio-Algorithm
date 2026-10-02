@@ -1,0 +1,9 @@
+{
+  "counts": {
+    "train": 1,
+    "val": 1,
+    "test": 1
+  },
+  "status": "provided_metadata_passed",
+  "limitation": "Does not detect near duplicates, false IDs, or pretraining overlap"
+}

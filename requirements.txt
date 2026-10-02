@@ -1,0 +1,5 @@
+# Install the CPU torch/torchaudio pair using the official index in README first.
+torch==2.14.1
+torchaudio==2.11.0
+numpy==2.5.3
+einops==0.8.2

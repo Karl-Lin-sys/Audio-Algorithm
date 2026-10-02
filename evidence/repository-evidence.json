@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "Xiaobin-Rong/gtcrn",
+    "stars": 748,
+    "license": "MIT",
+    "commit": "502ebfab64da7c4a9af78dcb9c6ceef1ebb01c73",
+    "accessed_utc": "2026-10-02T10:59:52.5129986Z",
+    "url": "https://github.com/Xiaobin-Rong/gtcrn"
+  },
+  {
+    "repository": "SamsungLabs/FINALLY",
+    "error": "応答の状態コードは成功を示しません: 404 (Not Found)。"
+  },
+  {
+    "repository": "Audio-WestlakeU/RealMAN",
+    "stars": 179,
+    "license": null,
+    "commit": "9dc59f03a98149bc7fe5524d1363af83a5b399f7",
+    "accessed_utc": "2026-10-02T10:59:53.8720297Z",
+    "url": "https://github.com/Audio-WestlakeU/RealMAN"
+  },
+  {
+    "repository": "espnet/espnet",
+    "stars": 9976,
+    "license": "Apache-2.0",
+    "commit": "f801d34fb0de1d14a6c763c587bc7ea7bb990ccb",
+    "accessed_utc": "2026-10-02T10:59:54.5283153Z",
+    "url": "https://github.com/espnet/espnet"
+  }
+]

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+third_party/
+*.wav
+*.tar
+*.pt
+*.pth
+data/
+local_results/

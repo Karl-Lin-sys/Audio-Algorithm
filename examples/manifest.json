@@ -1,0 +1,35 @@
+[
+  {
+    "id": "example-0",
+    "split": "train",
+    "condition": "indoor",
+    "sha256": "9a55c79eb2f1cd40dd23c57ee6e971a6fb05e6fbcc9b6d88d78cdf8d4b856d79",
+    "speaker_id": "fictional-speaker_id-0",
+    "session_id": "fictional-session_id-0",
+    "source_id": "fictional-source_id-0",
+    "noise_source_id": "fictional-noise_source_id-0",
+    "rir_id": "fictional-rir_id-0"
+  },
+  {
+    "id": "example-1",
+    "split": "val",
+    "condition": "indoor",
+    "sha256": "79701898807436cf541ccae465080fbf11145f940f69084c34d8ffc085ac6ca3",
+    "speaker_id": "fictional-speaker_id-1",
+    "session_id": "fictional-session_id-1",
+    "source_id": "fictional-source_id-1",
+    "noise_source_id": "fictional-noise_source_id-1",
+    "rir_id": "fictional-rir_id-1"
+  },
+  {
+    "id": "example-2",
+    "split": "test",
+    "condition": "indoor",
+    "sha256": "8f8179cedd1a1f06f6e39cd9e55ebabdae4d2243cd5b9ce74c7630a9c2718364",
+    "speaker_id": "fictional-speaker_id-2",
+    "session_id": "fictional-session_id-2",
+    "source_id": "fictional-source_id-2",
+    "noise_source_id": "fictional-noise_source_id-2",
+    "rir_id": "fictional-rir_id-2"
+  }
+]

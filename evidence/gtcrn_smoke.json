@@ -1,0 +1,29 @@
+{
+  "kind": "official_GTCRN_checkpoint_synthetic_smoke_test_NOT_quality_reproduction",
+  "source_commit": "502ebfab64da7c4a9af78dcb9c6ceef1ebb01c73",
+  "source_sha256": "5c72f15c179c156a7595ba36e40a3a2b7c84ce7ebc64f197569f3a791a2cb616",
+  "checkpoint_sha256": "a630d992cf792daf4ce2bb5bcf9c4d389f740a8f09c6e0971184697fe6371b79",
+  "input_samples": 16017,
+  "output_samples": 16017,
+  "all_finite": true,
+  "grad_disabled": true,
+  "model_eval": true,
+  "max_difference_from_reference_recipe": 0.0,
+  "total_parameters": 48245,
+  "trainable_parameters": 23669,
+  "benchmark": {
+    "median_ms": 53.2369997818023,
+    "p95_ms": 65.83620002493262,
+    "median_rtf": 0.053180495505327885,
+    "repeats": 20,
+    "warmup": 3,
+    "torch": "2.14.1+cpu",
+    "torchaudio": "2.11.0+cpu",
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "threads": 1,
+    "device": "cpu",
+    "scope": "offline whole-record kernel, excludes file I/O; not end-to-end latency"
+  }
+}

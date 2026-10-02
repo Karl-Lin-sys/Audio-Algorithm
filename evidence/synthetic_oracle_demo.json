@@ -1,0 +1,26 @@
+{
+  "kind": "synthetic_oracle_unit_fixture_NOT_product_quality",
+  "input_si_sdr_db": -0.03996682634449915,
+  "output_si_sdr_db": 18.94339196453707,
+  "benchmark": {
+    "median_ms": 8.258249843493104,
+    "p95_ms": 13.548000250011683,
+    "median_rtf": 0.004129124921746552,
+    "repeats": 20,
+    "warmup": 3,
+    "torch": "2.14.1+cpu",
+    "torchaudio": "2.11.0+cpu",
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "threads": 1,
+    "device": "cpu",
+    "scope": "offline whole-record kernel, excludes file I/O; not end-to-end latency"
+  },
+  "limitations": [
+    "oracle clean/noise masks",
+    "stationary analytic tones",
+    "offline covariance",
+    "not a trained or real-speech benchmark"
+  ]
+}
