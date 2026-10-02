@@ -68,4 +68,3 @@ result = {'kind': 'official_GTCRN_checkpoint_synthetic_smoke_test_NOT_quality_re
           'benchmark': lab.benchmark_cpu(lambda: lab.enhance_gtcrn(model, x, 16000), x.numel()/16000)}
 save(evidence / 'gtcrn_smoke.json', result)
 print(json.dumps(result, indent=2))
-
